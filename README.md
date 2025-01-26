@@ -1,10 +1,10 @@
 # Speedtest worker
 
-## 実行方法
+## how to run
 - Cloudflare -> speed-cloudflare
 - Speedtest.net -> speed-ookla
 
-## 入っているパッケージ
+## install packages
 - pnpm
 - speed-cloudflare-cli
 - speedtest-cli
